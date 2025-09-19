@@ -310,6 +310,6 @@ This project is part of a frontend engineering assignment and is for demonstrati
 
 ## 🔗 Live Demo
 
-[https://dope-security-fe-assignment-vibhor-sharma.netlify.app/]
+https://dope-security-fe-assignment-vibhor-sharma.netlify.app/
 
 ---
